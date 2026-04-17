@@ -942,4 +942,22 @@
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://hairex.pe/ingrediente/cafeina/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hairex.pe/ingrediente/ortiga/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hairex.pe/ingrediente/aceite-de-argan/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
