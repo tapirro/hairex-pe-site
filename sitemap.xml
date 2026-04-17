@@ -727,6 +727,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/cabello-y-agua-de-piscina/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/cabello-y-agua-dura-lima/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -763,6 +769,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/cabello-y-dieta-peruana/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/cabello-y-dieta-restrictiva/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -781,6 +793,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/cabello-y-hipotiroidismo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/cabello-y-menopausia/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -789,6 +807,12 @@
   <url>
     <loc>https://hairex.pe/condiciones/cabello-y-nutricion/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/cabello-y-plancha-de-calor/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -807,6 +831,18 @@
   <url>
     <loc>https://hairex.pe/condiciones/cabello-y-verano/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/caida-cabello-y-agua-dura-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/caida-cabello-y-contaminacion-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -835,6 +871,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/caida-por-agua-dura/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/caida-por-anemia-ferropenica/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -849,6 +891,12 @@
   <url>
     <loc>https://hairex.pe/condiciones/caida-por-anticonceptivos/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/caida-por-contaminacion-ambiental/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
