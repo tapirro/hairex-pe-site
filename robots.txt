@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.hairex.pe/sitemap.xml
+Sitemap: https://hairex.pe/sitemap.xml
