@@ -439,8 +439,26 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/ingrediente/l-arginina/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/ingrediente/l-carnitina/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/ingrediente/magnesio/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/ingrediente/melatonina/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -465,6 +483,18 @@
   <url>
     <loc>https://hairex.pe/ingrediente/potasio/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/ingrediente/probioticos/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/ingrediente/resveratrol/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -643,6 +673,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/alopecia-androgenetica-femenina/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/alopecia-androgenetica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -673,7 +709,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/alopecia-frontal-fibrosante/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/alopecia-por-anemia-ferropenica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/alopecia-por-deficit-nutricional/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -693,6 +741,12 @@
   <url>
     <loc>https://hairex.pe/condiciones/alopecia-por-tiroides/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/alopecia-por-traccion-peinados/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -729,6 +783,12 @@
   <url>
     <loc>https://hairex.pe/condiciones/cabello-danado-por-cloro/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/cabello-danado-por-quimica/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -781,6 +841,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/cabello-electrico/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/cabello-fino-sin-volumen/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/cabello-fino/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -805,6 +877,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/cabello-opaco/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/cabello-quebradizo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -825,6 +903,12 @@
   <url>
     <loc>https://hairex.pe/condiciones/cabello-seco-puntas-abiertas/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/cabello-seco/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -879,6 +963,12 @@
   <url>
     <loc>https://hairex.pe/condiciones/cabello-y-dieta-peruana/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/cabello-y-dieta-restrictiva-peru/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -943,6 +1033,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/cabello-y-sol-playa-peru/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/cabello-y-tiroides/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -981,6 +1077,12 @@
   <url>
     <loc>https://hairex.pe/condiciones/caida-del-cabello/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/caida-estacional/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1051,6 +1153,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/caida-postparto/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/calvicie-masculina/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1071,6 +1179,12 @@
   <url>
     <loc>https://hairex.pe/condiciones/caspa/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/crecimiento-lento-del-cabello/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1117,8 +1231,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/dermatitis-seborreica-cuero/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/dermatitis-seborreica/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/encanecimiento-prematuro/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1153,6 +1279,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/hipotricosis/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/hirsutismo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1167,6 +1299,12 @@
   <url>
     <loc>https://hairex.pe/condiciones/miniaturizacion-folicular/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/pediculosis/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1189,6 +1327,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hairex.pe/condiciones/perdida-de-densidad-capilar/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hairex.pe/condiciones/postparto-caida/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1197,6 +1341,18 @@
   <url>
     <loc>https://hairex.pe/condiciones/puntas-abiertas/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/quiste-sebaceo-cuero-cabelludo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hairex.pe/condiciones/seborrea-capilar/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1211,143 +1367,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hairex.pe/ingrediente/l-arginina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/ingrediente/l-carnitina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/ingrediente/probioticos/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/ingrediente/resveratrol/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/ingrediente/melatonina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/caida-postparto/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/dermatitis-seborreica-cuero/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/cabello-fino-sin-volumen/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/encanecimiento-prematuro/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/cabello-seco/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/perdida-de-densidad-capilar/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/alopecia-frontal-fibrosante/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/cabello-danado-por-quimica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/pediculosis/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/hipotricosis/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/cabello-opaco/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/quiste-sebaceo-cuero-cabelludo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/seborrea-capilar/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/alopecia-androgenetica-femenina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/caida-estacional/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/cabello-electrico/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/alopecia-por-deficit-nutricional/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hairex.pe/condiciones/crecimiento-lento-del-cabello/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
